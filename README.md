@@ -4,10 +4,10 @@ This project includes the Flutter interface for a smart home application. The ap
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Smart Chat](screenshots/smart_chat.png)
-![Stats Screen](screenshots/stats_screen.png)
-![User Screen](screenshots/user_screen.png)
+![Home Screen](readmeimages/Ekran%20görüntüsü%202024-01-12%20040107.png)
+![Smart Chat](readmeimages/Ekran%20görüntüsü%202024-01-12%20040604.png)
+![Stats Screen](readmeimages/Ekran%20görüntüsü%202024-01-12%20040444.png)
+![User Screen](readmeimages/Ekran%20görüntüsü%202024-01-12%20040046.png)
 
 ## Features
 
@@ -17,7 +17,7 @@ This project includes the Flutter interface for a smart home application. The ap
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Ozdemiroguz/FlutterProject.git`
 2. Navigate to the project folder: `cd your-repo`
 3. Install the required dependencies: `flutter pub get`
 4. Run the application: `flutter run`
