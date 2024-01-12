@@ -1,18 +1,19 @@
 # Smart Home App - Flutter Interface
 
-This project includes the Flutter interface for a smart home application. The app provides users with a user-friendly interface to control devices in their homes.
+This project includes the Flutter interface for a smart home application. The app provides users with a user-friendly interface to control devices in their homes. Additionally, users can engage in conversations with an AI bot through Smart Chat, and view live home data in the Stats section.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Home Screen](screenshots/home_screen.png)
+![Smart Chat](screenshots/smart_chat.png)
+![Stats Screen](screenshots/stats_screen.png)
+![User Screen](screenshots/user_screen.png)
 
 ## Features
 
-- **Home Dashboard:** Overview of all devices in the home.
-- **Room Control:** Individual controls for each room.
-- **Settings:** Application settings and user profile.
+- **Home Screen:** Displays general information about all rooms and the user. Users can also interact with an AI bot through Smart Chat.
+- **Stats Screen:** Allows users to monitor live home data.
+- **User Screen:** Provides users with general information, communication options, and the ability to log out.
 
 ## Installation
 
